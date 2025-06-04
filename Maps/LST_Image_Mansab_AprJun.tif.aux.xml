@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>LST_C</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">40.45500716</MDI>
+      <MDI key="STATISTICS_MAXIMUM">48.25151078</MDI>
+      <MDI key="STATISTICS_MEAN">45.392275223377</MDI>
+      <MDI key="STATISTICS_STDDEV">1.2324881218109</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">68.51</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
